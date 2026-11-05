@@ -1,0 +1,6 @@
+#!/bin/zsh
+# Local preview: uses Homebrew Ruby and a UTF-8 locale (al_folio_core fails under US-ASCII).
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+export LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8
+cd "$(dirname "$0")/.."
+exec bundle exec jekyll serve --livereload --port "${PORT:-4000}"

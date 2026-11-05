@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jekyll",
+      "runtimeExecutable": "/Users/taehyeong/Desktop/NCS_Lab/Homepage/bin/serve-local",
+      "runtimeArgs": [],
+      "port": 4000
+    }
+  ]
+}
