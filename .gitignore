@@ -19,3 +19,7 @@ vendor
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc
+
+# original photos (may contain GPS metadata); publish only stripped copies in assets/img/
+profile.JPG
+*.HEIC

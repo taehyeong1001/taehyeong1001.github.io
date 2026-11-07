@@ -6,7 +6,7 @@ subtitle: Undergraduate Researcher · Department of Mathematical Sciences, <a hr
 
 profile:
   align: right
-  image: # add a photo as assets/img/prof_pic.jpg and set this to prof_pic.jpg
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Nonlinear Dynamics Lab</p>
