@@ -28,4 +28,4 @@ Only the linear readout is trained, using a handful of records from normal regim
 
 In both collapse models, the twin reproduces the supplied fluctuation amplitude. Continued beyond the training regimes, it generates the collapse itself. Its warning thresholds fall on the conservative, lower-fluctuation side of the true transitions.
 
-_Manuscript in preparation, with Pilwon Kim._
+_Taehyeong Kim and Pilwon Kim, "How Much Fluctuation Is Dangerous? Predicting Tipping Points via Statistically Conditioned Digital Twins," submitted (2026). Poster presented at the KSIAM Spring Conference 2026._

@@ -3,7 +3,7 @@ cv:
   label: Undergraduate Researcher
   location: Ulsan, South Korea
   image: ""
-  summary: Undergraduate researcher in mathematical sciences at UNIST, working on reservoir-computing digital twins for anticipating critical transitions in nonlinear dynamical systems.
+  summary: Industrial engineering undergraduate at UNIST and undergraduate researcher in the Nonlinear Dynamics Lab (Mathematical Sciences), working on reservoir-computing digital twins for anticipating critical transitions in nonlinear dynamical systems.
 
   social_networks:
     - network: GitHub
@@ -14,7 +14,7 @@ cv:
       - institution: Ulsan National Institute of Science and Technology (UNIST)
         location: Ulsan, South Korea
         url: https://www.unist.ac.kr/
-        area: Mathematical Sciences
+        area: Industrial Engineering
         studyType: B.S.
         # start_date: TODO (e.g. 2023-03)
         end_date: present
@@ -29,9 +29,25 @@ cv:
           - Developing statistically conditioned digital twins (SCDT), reservoir-computing models conditioned on measurable statistics, to locate tipping points.
           - Applied the framework to a chaotic food chain, a power-system voltage-collapse model, a Kuramoto network, and the Epileptor seizure model.
 
-    Talks:
-      - label: Oct 2026
-        details: "<em>Digital Twin for Epileptor Seizure Transition Prediction</em>. Team Re(λ) > 0, seminar presentation."
+    Publications:
+      - title: "How Much Fluctuation Is Dangerous? Predicting Tipping Points via Statistically Conditioned Digital Twins"
+        authors:
+          - Taehyeong Kim
+          - Pilwon Kim
+        publisher: Submitted
+        releaseDate: 2026
+        summary: "<strong>Taehyeong Kim</strong> and Pilwon Kim"
+
+    Presentations:
+      - label: "2026"
+        details: "<em>How Much Fluctuation Is Dangerous? Predicting Tipping Points via Statistically Conditioned Digital Twins</em>. Poster, KSIAM Spring Conference."
+      - label: "2026"
+        details: "<em>Digital Twin for Epileptor Seizure Transition Prediction</em>. Poster, UNIST AICP."
+
+    Awards:
+      - title: Excellence Award
+        awarder: Financial Security Institute (FSI) Paper Competition
+        date: 2024
 
     Skills:
       - name: Research areas
@@ -44,5 +60,5 @@ cv:
     Languages:
       - name: Korean
         summary: "Native speaker"
-      - name: English
-        summary: "TODO: proficiency"
+      # - name: English
+      #   summary: "TODO: proficiency"

@@ -21,4 +21,4 @@ This team project treats seizure onset as a **critical transition** and applies 
 
 For a single Epileptor node, the twin placed the seizure boundary at $$\sigma \approx 0.380$$, within about 0.3% of the ground-truth boundary. It did this without seeing a single seizure during training. The project also extends the study to a coupled three-node network, since real seizures start in one region and spread to others.
 
-_Team Re(λ) > 0 · seminar presentation, October 2026._
+_Team Re(λ) > 0 · poster presentation, UNIST AICP 2026._
