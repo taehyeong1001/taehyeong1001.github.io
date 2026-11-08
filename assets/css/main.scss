@@ -1,0 +1,52 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+/* Gray palette on top of the "air" skin (variables must come before the skin import) */
+$background-color: #eeeff1;
+$text-color: #24262b;
+$muted-text-color: #4a4d55;
+$primary-color: #3d5a80;
+$link-color: #2f4f7a;
+$border-color: #d4d6db;
+$footer-background-color: #3a3b3f;
+$code-background-color: #e3e4e8;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Site-specific additions */
+.page__footer {
+  color: #c8c9cc;
+}
+
+.page__footer a {
+  color: #ffffff;
+}
+
+.author__avatar img {
+  max-width: 200px;
+  border-radius: 6px;
+}
+
+.research-item {
+  background: #ffffff;
+  border: 1px solid $border-color;
+  border-radius: 6px;
+  padding: 1em 1.25em;
+  margin-bottom: 1.25em;
+
+  h2 {
+    margin-top: 0.25em;
+    padding-bottom: 0;
+    border-bottom: none;
+  }
+
+  .research-item__desc {
+    margin: 0;
+    color: $muted-text-color;
+  }
+}

@@ -1,24 +1,10 @@
 _site
 .bundle
-.DS_store
-.idea
+.DS_Store
 .jekyll-cache
 .jekyll-metadata
-.ruby-version
 .sass-cache
-.tweet-cache
-.venv
-assets/libs/
-assets/rendercv/rendercv_output/*.typ
-al-folio-upgrade-report.md
-node_modules/
-output/playwright/
-test-results/
 vendor
-
-# Python bytecode from bin/ helper scripts
-__pycache__/
-*.pyc
 
 # original photos (may contain GPS metadata); publish only stripped copies in assets/img/
 profile.JPG
