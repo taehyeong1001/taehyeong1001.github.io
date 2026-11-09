@@ -5274,6 +5274,42 @@ body {
   }
 }
 
+/* Phones/tablets: put the Follow button on the same line as the name.
+   Grid with .author__content flattened so name and bio become grid items:
+     [photo] [name] [Follow]
+     [photo] [bio .........] */
+@media (max-width: 1023px) {
+  .sidebar .h-card {
+    display: grid;
+    grid-template-columns: 120px auto 1fr;
+    column-gap: 15px;
+    row-gap: 10px;
+    align-items: start;
+  }
+  .sidebar .h-card .author__avatar {
+    grid-column: 1;
+    grid-row: 1/span 2;
+  }
+  .sidebar .h-card .author__content {
+    display: contents;
+  }
+  .sidebar .h-card .author__name {
+    grid-column: 2;
+    grid-row: 1;
+    align-self: center;
+  }
+  .sidebar .h-card .author__urls-wrapper {
+    grid-column: 3;
+    grid-row: 1;
+    justify-self: start;
+    align-self: center;
+    display: block;
+  }
+  .sidebar .h-card .author__bio {
+    grid-column: 2/4;
+    grid-row: 2;
+  }
+}
 .research-item {
   background: #ffffff;
   border: 1px solid #d4d6db;
