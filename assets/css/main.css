@@ -5254,9 +5254,24 @@ body {
   color: #ffffff;
 }
 
+/* Profile photo: larger on phones/tablets (theme default is a 36px thumbnail)
+   and fills the sidebar width on desktop */
+.author__avatar {
+  width: 120px;
+  height: auto;
+}
 .author__avatar img {
-  max-width: 200px;
+  width: 100%;
+  max-width: 100%;
   border-radius: 6px;
+}
+@media (min-width: 64em) {
+  .author__avatar {
+    width: auto;
+  }
+  .author__avatar img {
+    max-width: 260px;
+  }
 }
 
 .research-item {
