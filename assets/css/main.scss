@@ -27,9 +27,25 @@ $code-background-color: #e3e4e8;
   color: #ffffff;
 }
 
-.author__avatar img {
-  max-width: 200px;
-  border-radius: 6px;
+/* Profile photo: larger on phones/tablets (theme default is a 36px thumbnail)
+   and fills the sidebar width on desktop */
+.author__avatar {
+  width: 120px;
+  height: auto;
+
+  img {
+    width: 100%;
+    max-width: 100%;
+    border-radius: 6px;
+  }
+
+  @include breakpoint($large) {
+    width: auto;
+
+    img {
+      max-width: 260px;
+    }
+  }
 }
 
 .research-item {
