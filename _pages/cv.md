@@ -11,9 +11,9 @@ Industrial engineering undergraduate at UNIST and undergraduate researcher in th
 
 ## Education
 
-**Graduate Program, Department of Mathematical Sciences**, UNIST
+**Integrated M.S.–Ph.D. Program, Department of Mathematical Sciences**, UNIST
 <br>Ulsan, South Korea · incoming
-<!-- TODO: program (M.S./Ph.D./integrated) and start term -->
+<!-- TODO: start term -->
 
 **B.S. in Industrial Engineering**, Ulsan National Institute of Science and Technology (UNIST)
 <br>Ulsan, South Korea · present
