@@ -11,6 +11,10 @@ Industrial engineering undergraduate at UNIST and undergraduate researcher in th
 
 ## Education
 
+**Graduate Program, Department of Mathematical Sciences**, UNIST
+<br>Ulsan, South Korea · incoming
+<!-- TODO: program (M.S./Ph.D./integrated) and start term -->
+
 **B.S. in Industrial Engineering**, Ulsan National Institute of Science and Technology (UNIST)
 <br>Ulsan, South Korea · present
 <!-- TODO: start year -->
@@ -23,6 +27,14 @@ Industrial engineering undergraduate at UNIST and undergraduate researcher in th
 
 - Developing statistically conditioned digital twins (SCDT), reservoir-computing models conditioned on measurable statistics, to locate tipping points.
 - Applied the framework to a chaotic food chain, a power-system voltage-collapse model, a Kuramoto network, and the Epileptor seizure model.
+
+## Teaching Experience
+
+**Teaching Assistant**, _Mathematical Thinking for AI_, UNIST
+<br>Sep 2026 – Dec 2026
+
+**Course Development Assistant**, _Mathematical Thinking for AI_, UNIST
+<br>May 2026 – Aug 2026
 
 ## Publications
 
