@@ -7,7 +7,7 @@ toc_label: "CV"
 toc_sticky: true
 ---
 
-Industrial engineering undergraduate at UNIST and undergraduate researcher in the Nonlinear Dynamics Lab (Mathematical Sciences), working on reservoir-computing digital twins for anticipating critical transitions in nonlinear dynamical systems.
+Industrial engineering undergraduate at UNIST and undergraduate researcher in the Nonlinear Complex System Lab (Mathematical Sciences), working on reservoir-computing digital twins for anticipating critical transitions in nonlinear dynamical systems.
 
 ## Education
 
@@ -21,7 +21,7 @@ Industrial engineering undergraduate at UNIST and undergraduate researcher in th
 
 ## Research Experience
 
-**Undergraduate Researcher**, Nonlinear Dynamics Lab, Department of Mathematical Sciences, UNIST
+**Undergraduate Researcher**, Nonlinear Complex System Lab, Department of Mathematical Sciences, UNIST
 <br>Advisor: Prof. Pilwon Kim · present
 <!-- TODO: start date -->
 
@@ -47,14 +47,5 @@ Industrial engineering undergraduate at UNIST and undergraduate researcher in th
 
 ## Awards
 
+- **Grand Prize**, Ulsan Youth Policy Proposal Competition, 2026.
 - **Excellence Award**, Financial Security Institute (FSI) Paper Competition, 2024.
-
-## Skills
-
-- **Research areas:** nonlinear dynamics, reservoir computing, critical transitions, time-series analysis
-<!-- - **Programming:** TODO -->
-
-## Languages
-
-- Korean (native)
-<!-- - English: TODO -->

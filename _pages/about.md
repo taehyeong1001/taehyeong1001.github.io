@@ -4,7 +4,7 @@ title: "About"
 excerpt: "Undergraduate researcher at UNIST working on reservoir-computing digital twins."
 ---
 
-I am an undergraduate researcher in the Nonlinear Dynamics Lab at UNIST, advised by Prof. Pilwon Kim. I build data-driven digital twins of nonlinear dynamical systems using reservoir computing.
+I am an undergraduate researcher in the Nonlinear Complex System Lab at UNIST, advised by Prof. Pilwon Kim. I build data-driven digital twins of nonlinear dynamical systems using reservoir computing.
 
 My current work addresses a practical question about critical transitions: _given only the statistics we can actually measure, how far can a system drift before its normal dynamics break down?_ To answer it, I am developing **statistically conditioned digital twins (SCDT)**.
 
