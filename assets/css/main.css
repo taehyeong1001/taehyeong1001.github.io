@@ -5310,6 +5310,17 @@ body {
     grid-row: 2;
   }
 }
+/* Wide screens: widen the left profile sidebar (theme default 300px) so each
+   bio line fits on one line; the main column shifts right to make room.
+   The right-hand padding reserved for the CV table of contents is unchanged. */
+@media (min-width: 80em) {
+  .sidebar {
+    width: calc(380px - 1em);
+  }
+  .page {
+    width: calc(100% - 380px);
+  }
+}
 .research-item {
   background: #ffffff;
   border: 1px solid #d4d6db;
