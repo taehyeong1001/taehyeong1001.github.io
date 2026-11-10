@@ -17,4 +17,4 @@ Next, I plan to tackle multivariate time-series problems using knowledge distill
 ## News
 
 - **Nov 2026**: Launched this website.
-- **Oct 2026**: Presented our team project, _Digital Twin for Epileptor Seizure Transition Prediction_, at a seminar.
+- **Oct 2026**: Presented our team project, _Digital Twin for Epileptor Seizure Transition Prediction_.
