@@ -30,18 +30,21 @@ author:
     Incoming M.S.–Ph.D. student, Math Sciences
   location: Ulsan, South Korea
   links:
+    - label: taehyung0818@unist.ac.kr
+      icon: fas fa-fw fa-envelope
+      url: mailto:taehyung0818@unist.ac.kr
     - label: UNIST Mathematical Sciences
       icon: fas fa-fw fa-university
       url: https://math.unist.ac.kr/
     - label: GitHub
       icon: fab fa-fw fa-github
       url: https://github.com/taehyeong1001
-    # - label: Email
-    #   icon: fas fa-fw fa-envelope-square
-    #   url: mailto:TODO@unist.ac.kr
 
 footer:
   links:
+    - label: Email
+      icon: fas fa-fw fa-envelope
+      url: mailto:taehyung0818@unist.ac.kr
     - label: GitHub
       icon: fab fa-fw fa-github
       url: https://github.com/taehyeong1001
